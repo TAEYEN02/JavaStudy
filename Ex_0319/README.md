@@ -6,10 +6,6 @@ jdk(java development kit)
 
 검색 창 openJDK → 맨 위에거 (oracle) → OpenJDK Archive → JDK 11 Releases → zip 다운 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df807236-25ec-490f-877e-73708445aa41/727ccf05-b857-441e-8ebd-8695eec987d5/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df807236-25ec-490f-877e-73708445aa41/9372c4f1-6b08-4229-88e8-c509f032beab/Untitled.png)
-
 ---
 
 환경 변수 새로 추가해주기
@@ -35,8 +31,6 @@ Intgrated Development Environment
 ### [eclipse.org](http://eclipse.org)
 
 → Download Packages → 2023-03 → web developers
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/df807236-25ec-490f-877e-73708445aa41/0c093592-559f-4ec8-967f-98be31b90812/Untitled.png)
 
 ---
 
